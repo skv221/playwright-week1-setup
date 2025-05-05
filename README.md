@@ -29,7 +29,7 @@ This repository documents my Week 1 learning progress with **Playwright in Pytho
 | **Aspect**         | **Playwright**                                      | **Selenium**                             |
 |---------------------|-----------------------------------------------------|-----------------------------------------|
 | Installation        | Built-in drivers, easy setup with `playwright install` | Requires separate browser drivers setup |
-| Supported Browsers  | Chromium, Firefox, WebKit (out of the box)           | Chrome, Firefox, Edge, Safari (external) |
+| Supported Browsers  | Chromium, Firefox, WebKit (inbuilt)           | Chrome, Firefox, Edge, Safari (external) |
 | Wait Handling       | Auto-waits for actions and elements                  | Needs explicit or implicit waits        |
 | Speed               | Generally faster, modern design                     | Can be slower, older design             |
 | Async Support       | Native `async/await` via `async_playwright`         | More limited or manual async            |

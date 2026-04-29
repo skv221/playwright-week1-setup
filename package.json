@@ -1,0 +1,24 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skv221/playwright-week1-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/skv221/playwright-week1-setup/issues"
+  },
+  "homepage": "https://github.com/skv221/playwright-week1-setup#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
